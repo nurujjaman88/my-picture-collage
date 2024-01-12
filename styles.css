@@ -2,3 +2,12 @@ header{
     color: red;
     background-color: blue;
 }
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+    height: 400px;
+}
